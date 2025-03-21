@@ -1,5 +1,5 @@
 #pragma once
-#include "../../HUDModule.h"
+#include "../../TextModule.h"
 
 class Watermark : public Module {
 public:
